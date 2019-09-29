@@ -1,1 +1,6 @@
-This is a spotify clone app that uses Exo-player library and firebase as backend.
+**Spotify Clone**
+
+**About**
+* Firebase as database.
+* Firestore for storing songs.
+* Exoplayer for playback.
